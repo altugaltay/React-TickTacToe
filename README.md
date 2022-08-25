@@ -1,6 +1,6 @@
 # React-TickTacToe
 <h1> Game Display</h1>
-<img><a href = "https://user-images.githubusercontent.com/106876176/186425292-5ae99761-0646-402f-99c2-25f7c3064206.JPG"></a></img>
+![tx](https://user-images.githubusercontent.com/106876176/186425292-5ae99761-0646-402f-99c2-25f7c3064206.JPG)
 <h1> X Won Display</h1>
 ![tx](https://user-images.githubusercontent.com/106876176/186425380-ae524888-4820-42d4-9b33-6e982cbdee5d.JPG)
 <h1> O Won Display</h1>
